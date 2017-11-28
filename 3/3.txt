@@ -1,0 +1,4 @@
+Для запрета доступа к папке сайта используются директивы allow и deny.
+Order deny,allow
+deny from all
+Allow from XXXXXXXXXXX  " // где ххх- Ip

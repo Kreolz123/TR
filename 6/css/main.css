@@ -1,0 +1,42 @@
+.book-edit .title {
+	font-weight: 700;
+}
+.book-edit .authors {
+	margin-bottom: 50px;
+}
+.book-edit .item .but-remove {
+	display: block;
+	float: right;
+	cursor: pointer;
+}
+.book-edit .item-tpl {
+	display: none;
+}
+
+.filter {
+	margin-bottom: 20px;
+}
+.filter .title {
+	font-weight: 700;
+}
+.filter .authors .but-remove {
+	display: block;
+	float: left;
+	cursor: pointer;
+}
+.filter .authors .item-tpl {
+	display: none;
+}
+.filter .open-close {
+	cursor: pointer;
+	padding: 20px;
+	color: #0198cf;
+}
+.filter form {display: none}
+.filter form.open {display: block}
+.filter .authors {
+	margin-bottom: 50px;
+}
+.well {
+	background: #fff;
+}
